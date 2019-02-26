@@ -16,10 +16,10 @@ Pod::Spec.new do |s|
                                 beautiful and fast products with no compromises in
                                 quality or capability.
                              DESC
-  s.homepage                = "https://github.com/CodingForMoney/react-native"
+  s.homepage                = "https://github.com/hxdwdfang/MineReact"
   s.license                 = { :type => "MIT"}
   s.author                  = "Facebook"
-  s.source                  = { :git => "https://github.com/CodingForMoney/react-native.git", :tag => s.version}
+  s.source                  = { :git => "https://github.com/hxdwdfang/MineReact.git", :tag => s.version}
   s.default_subspec         = "Core"
   s.header_dir              = "React"
   s.requires_arc            = true
