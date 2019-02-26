@@ -1,9 +1,9 @@
 ## 修改内容
 
 * 修复一个小bug 15492
-* 重新提交podspec ，命名为 MXReact 。大家可以通过
+* 重新提交podspec ，命名为 MineReact (直接copy MXReact代码测试是否能push成功，使用0.58.5一直lint不成功)。大家可以通过
 
-		 pod 'MXReact' , :subspecs => [
+		 pod 'MineReact' , :subspecs => [
 		 'Core',
 		 'CxxBridge'
 		]
